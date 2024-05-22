@@ -50,7 +50,9 @@ In the Initial data preparation phase, we performed the following task
   2.  Exploratory Data Analysis
 This section focuses more on providing insight into the goal of our study(answering all three questions from the introduction). We provide all code/features used for the analysis, you guys can run the code directly in GitHub or download it
 
-**IMPORTANT** -- USE this➡️ [link](/kaggle/input/data-analyst-job-postings-google-search/gsearch_jobs.csv) **/kaggle/input/data-analyst-job-postings-google-search/gsearch_jobs.csv** instead, when IMPORTING your data. NOW RUN IT🏃‍♂️🏃‍♀️
+**IMPORTANT** -- USE this➡️ [link](/kaggle/input/data-analyst-job-postings-google-search/gsearch_jobs.csv) **/kaggle/input/data-analyst-job-postings-google-search/gsearch_jobs.csv** instead, when IMPORTING your data. NOW RUN IT🏃‍♂️🏃‍♀️ Or download **gsearch_jobs.csv** file directly here [Download Dataset here](https://www.kaggle.com/code/fabngan/data-analyst-job-postings)
+
+
 
 
 ### Findings
