@@ -1,7 +1,7 @@
 # A Case Study of Data Analyst Roles!!!
 ### If you want to pursue a career as a Data Analyst, here's what you need to know!
 
-“Data analytics is the future, and the future is now! Every mouse click, keyboard button press, swipe or tap is used to shape business decisions. Everything is about data these days. Data is information, and information is power.”
+“Data analytics is the future, and the future is now! Every mouse click, keyboard button press, swipe, or tap is used to shape business decisions. Everything is about data these days. Data is information, and information is power.”
 ~ Radi, data analyst at CENTOGENE
 
 ## Table of Contents
@@ -50,7 +50,9 @@ In the Initial data preparation phase, we performed the following task
   2.  Exploratory Data Analysis
 This section focuses more on providing insight into the goal of our study(answering all three questions from the introduction). We provide all code/features used for the analysis, you guys can run the code directly in GitHub or download it
 
-   
+**IMPORTANT** -- USE this➡️ [link](/kaggle/input/data-analyst-job-postings-google-search/gsearch_jobs.csv) instead, when IMPORTING your data. NOW RUN IT🏃‍♂️🏃‍♀️
+
+
 ### Findings
 
 We presented our analysis results in images, and they're summarized as follows 
@@ -74,4 +76,4 @@ We recommend you use our findings as guidance in your career search as a Data An
 There is a formatting issue in the dataset and some of the company names seem not to make any sense (Example: '84.51' is a company name). 
 
 ### References
-Special Thanks to RAJAT RAJ. we recommend you follow him... 
+Special Thanks to RAJAT RAJ. we recommend you follow him...🙏 
