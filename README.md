@@ -33,7 +33,7 @@ Google Search Job Postings for Data Analyst: the primary dataset used in the ana
 
 ### Tools
 
-We relied strictly on Python Notebook and its libraries for all steps of our analysis, including Data Cleaning/Preparation and Data visualization 
+We relied strictly on Python Notebook and its libraries for all steps of our analysis, including Data Cleaning/Preparation and Data visualization. Below are free online programs where you can RUN🏃 the code, and it's free to use↙️
   - [Python Notebook](https://jupyter.org/try)
   - [Google Colab](https://colab.research.google.com/)
 
